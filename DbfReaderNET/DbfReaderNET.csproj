@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <IsPublishable>True</IsPublishable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>DbfReaderNET</Title>
+    <Description>DBase and Foxpro Reader for DotNet Core 7</Description>
+    <Version>2.0.1.1</Version>
+    <Authors>Adahada</Authors>
+    <PackAsTool>False</PackAsTool>
+  </PropertyGroup>
+
+</Project>
