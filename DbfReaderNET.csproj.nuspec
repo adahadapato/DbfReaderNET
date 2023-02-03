@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>DbfReaderNET</id>
+    <version>1.0.0</version>
+    <authors>ADAHADA</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <description>Dbf and VSFoxpro Reader for NET 7</description>
+    <releaseNotes>Bug fixes and performance improvements</releaseNotes>
+    <copyright>Copyright ©2023</copyright>
+    <tags>Dbf Foxpro NET 7</tags>
+    <!--<dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="SampleDependency" version="1.0.0" />
+      </group>
+      <group targetFramework=".NET7.0">
+        <dependency id="SampleDependency2" version="1.0.0" />
+      </group>
+    </dependencies>-->
+  </metadata>
+   <files>
+      <file src="DbfReaderNET\bin\Release\net7.0\DbfReaderNET.dll" target="lib\net7.0" />
+    </files>
+</package>

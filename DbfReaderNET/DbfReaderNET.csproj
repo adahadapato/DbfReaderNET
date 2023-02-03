@@ -11,6 +11,9 @@
     <Version>2.0.1.1</Version>
     <Authors>Adahada</Authors>
     <PackAsTool>False</PackAsTool>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <BaseOutputPath>bin</BaseOutputPath>
   </PropertyGroup>
 
 </Project>
