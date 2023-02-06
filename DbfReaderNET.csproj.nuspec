@@ -7,10 +7,12 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
     <!-- <icon>icon.png</icon> -->
-    <description>Dbf and VSFoxpro Reader for NET 7</description>
+    <description>
+        DbfReaderNET is a small .Net 7 library for reading dBase, xBase and VSFoxPro database files
+    </description>
     <releaseNotes>Bug fixes and performance improvements</releaseNotes>
     <copyright>Copyright ©2023</copyright>
-    <tags>Dbf Foxpro NET 7</tags>
+    <tags>Dbf Foxpro NET6</tags>
     <!--<dependencies>
       <group targetFramework=".NETStandard2.1">
         <dependency id="SampleDependency" version="1.0.0" />
